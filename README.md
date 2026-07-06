@@ -17,3 +17,6 @@ pip install -r requirements.txt
 
 ## Running the software
 python khosla_app/main.py
+
+
+[![DOI](https://zenodo.org/badge/1291218118.svg)](https://doi.org/10.5281/zenodo.21223997)
