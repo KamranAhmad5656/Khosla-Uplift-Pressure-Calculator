@@ -1,0 +1,25 @@
+Original RAR archive contents (source code was not modified):
+
+Khosla Uplift Pressure Calculator/diagnose_desktop.bat
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/diagnose_desktop.bat
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/khosla_desktop_app.py
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/khosla_desktop_app.pyw
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/README_DESKTOP.md
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/requirements.txt
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/run_khosla_desktop.bat
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/VALIDATION_NOTES.md
+Khosla Uplift Pressure Calculator/khosla_desktop_app.py
+Khosla Uplift Pressure Calculator/khosla_desktop_app.pyw
+Khosla Uplift Pressure Calculator/khosla_error.log
+Khosla Uplift Pressure Calculator/make_distribution.bat
+Khosla Uplift Pressure Calculator/README_DESKTOP.md
+Khosla Uplift Pressure Calculator/requirements.txt
+Khosla Uplift Pressure Calculator/run_khosla_desktop.bat
+Khosla Uplift Pressure Calculator/VALIDATION_NOTES.md
+Khosla Uplift Pressure Calculator/__pycache__/khosla_desktop_app.cpython-314.pyc
+Khosla Uplift Pressure Calculator/dist/Khosla Hydraulic Foundation Designer/
+Khosla Uplift Pressure Calculator/.agents/
+Khosla Uplift Pressure Calculator/.git/
+Khosla Uplift Pressure Calculator/dist/
+Khosla Uplift Pressure Calculator/__pycache__/
+Khosla Uplift Pressure Calculator/

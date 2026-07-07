@@ -1,0 +1,66 @@
+{
+  "project_name": "Khosla Design Example",
+  "structure_type": "Barrage / Weir Floor",
+  "designer": "",
+  "design_date": "2026-07-06",
+  "pond_level": 105.0,
+  "tail_water_level": 100.0,
+  "upstream_bed_level": 99.0,
+  "downstream_bed_level": 98.5,
+  "floor_level": 99.0,
+  "crest_level": 102.0,
+  "floor_length": 72.0,
+  "upstream_floor_to_crest": 18.0,
+  "crest_width": 8.0,
+  "downstream_glacis_length": 24.0,
+  "slope_ratio": "4:1",
+  "floor_material": "Plain concrete",
+  "specific_gravity": 2.4,
+  "unit_weight_water": 9.81,
+  "safe_exit_gradient": 0.1667,
+  "fos_uplift": 1.0,
+  "apply_mutual_correction": true,
+  "apply_thickness_correction": true,
+  "apply_slope_correction": true,
+  "correction_mode": "Textbook selective",
+  "piles": [
+    {
+      "name": "Pile 1",
+      "x": 0.0,
+      "depth": 5.0,
+      "thickness": 3.0,
+      "material": "Steel sheet pile"
+    },
+    {
+      "name": "Pile 2",
+      "x": 42.0,
+      "depth": 6.0,
+      "thickness": 4.0,
+      "material": "Steel sheet pile"
+    },
+    {
+      "name": "Pile 3",
+      "x": 72.0,
+      "depth": 4.0,
+      "thickness": 2.0,
+      "material": "Steel sheet pile"
+    }
+  ],
+  "floor_nodes": [
+    {
+      "name": "N1",
+      "x": 0.0,
+      "thickness": 3.0
+    },
+    {
+      "name": "N2",
+      "x": 42.0,
+      "thickness": 4.0
+    },
+    {
+      "name": "N3",
+      "x": 72.0,
+      "thickness": 2.0
+    }
+  ]
+}
